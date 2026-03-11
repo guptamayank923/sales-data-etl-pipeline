@@ -1,0 +1,6 @@
+Key Insights from Sales Data
+
+1. The West region generated the highest revenue.
+2. Product A is the top selling product.
+3. Monthly sales increased significantly in March.
+4. The average order value increased during Q2.
